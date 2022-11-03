@@ -1,2 +1,2 @@
-# ML-with-Linear-Regression
+# Analyze Social Media Marketing Data using Linear Regression
 Using Linear Regression and Multiple Regression to understand effects of advertising budgets (YouTube, Facebook, Newspaper) on a company sales 
